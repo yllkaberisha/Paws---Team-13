@@ -241,3 +241,18 @@ input {
 	width: 45px;
 	height: 35px;
   }
+.btns{
+	margin-top: 15px;
+}
+.buttons{
+	display: flex;
+	justify-content: space-evenly;
+}
+.buttons button{
+	padding: 10px;
+	margin-right: 15px;
+	margin-top: 10px;
+}
+.so{
+	padding: 25px;
+}
